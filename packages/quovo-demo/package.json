@@ -1,0 +1,33 @@
+{
+	"name": "@ctx-core/quovo-demo",
+	"version": "0.0.1",
+	"main": "koa.js",
+	"description": "An old integration of quovo using ctx-core. Not working as ctx-core has gone through changes since this was last updated.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/ctx-core-quovo.git"
+	},
+	"keywords": [
+		"ctx-core",
+		"quovo"
+	],
+	"dependencies": {
+		"@ctx-core/array": "^2.0.0",
+		"@ctx-core/dom__riot": "^2.0.0",
+		"@ctx-core/html": "^2.0.0",
+		"@ctx-core/layout": "^2.0.0",
+		"@ctx-core/logger": "^2.0.0",
+		"@ctx-core/object": "^2.0.0",
+		"@ctx-core/promise": "^2.0.0",
+		"@ctx-core/quovo": "^0.0.1",
+		"@ctx-core/riot": "^2.0.0",
+		"@ctx-core/route": "^2.0.0",
+		"@ctx-core/rpc": "^2.0.0",
+		"@ctx-core/string": "^2.0.0",
+		"esm": "^3.0.72",
+		"fs-promise": "^2.0.3"
+	},
+	"devDependencies": {
+		"@ctx-core/test": "^2.0.0"
+	}
+}

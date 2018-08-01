@@ -1,0 +1,11 @@
+{
+	"private": true,
+	"name": "ctx-core-quovo",
+	"workspaces": {
+		"packages": [
+			"functions/*",
+			"packages/*",
+			"packages/ctx-core/packages/*"
+		]
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"name": "@ctx-core/quovo",
+	"version": "0.0.1",
+	"main": "",
+	"description": "An old integration of quovo using ctx-core. Not working as ctx-core has gone through changes since this was last updated.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/ctx-core-quovo.git"
+	},
+	"keywords": [
+		"ctx-core",
+		"quovo"
+	],
+	"dependencies": {
+		"@ctx-core/agent": "^2.0.0",
+		"@ctx-core/currency": "^2.0.0",
+		"@ctx-core/env": "^2.0.0",
+		"@ctx-core/logger": "^2.0.0",
+		"@ctx-core/object": "^2.0.0",
+		"@ctx-core/promise": "^2.0.0",
+		"@ctx-core/riot": "^2.0.0",
+		"@ctx-core/svelte": "^2.0.0",
+		"esm": "^3.0.72",
+		"inquirer": "^6.0.0",
+		"inquirer-autocomplete-prompt": "^1.0.1",
+		"table": "^4.0.3",
+		"vorpal": "^1.12.0"
+	},
+	"devDependencies": {
+		"@ctx-core/test": "^2.0.0"
+	}
+}
