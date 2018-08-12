@@ -8,7 +8,7 @@ import {
 } from '@ctx-core/fetch/lib.mjs'
 import { assign__headers__http, _ContentType__json } from '@ctx-core/http/lib.mjs'
 import { splice__selector__array } from '@ctx-core/array/lib.mjs'
-import { yyyymmddhhmmss } from 'ctx-core/date/lib.mjs'
+import { yyyymmddhhmmss } from '@ctx-core/date/lib.mjs'
 import btoa from 'btoa-lite'
 import { log, debug } from '@ctx-core/logger/lib.mjs'
 const fetch__quovo = _fetch({
