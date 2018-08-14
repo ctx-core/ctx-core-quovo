@@ -22,7 +22,7 @@ import autocomplete from 'inquirer-autocomplete-prompt'
 import table from 'text-table'
 import { log, debug } from '@ctx-core/logger/lib.mjs'
 const cli = Vorpal()
-const logPrefix = 'ctx-core/quovo/cli'
+const logPrefix = '@ctx-core/quovo/cli'
 let ctx__cli
 inquirer.registerPrompt('autocomplete', autocomplete)
 apply__command__cli()
