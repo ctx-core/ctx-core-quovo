@@ -1,6 +1,7 @@
 {
 	"private": true,
 	"name": "ctx-core-quovo",
+	"version": "0.0.1",
 	"workspaces": {
 		"packages": [
 			"functions/*",
