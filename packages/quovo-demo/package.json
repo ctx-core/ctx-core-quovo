@@ -12,22 +12,22 @@
 		"quovo"
 	],
 	"dependencies": {
-		"@ctx-core/array": "^2.0.0",
-		"@ctx-core/dom__riot": "^2.0.0",
-		"@ctx-core/html": "^2.0.0",
-		"@ctx-core/layout": "^2.0.0",
-		"@ctx-core/logger": "^2.0.0",
-		"@ctx-core/object": "^2.0.0",
-		"@ctx-core/promise": "^2.0.0",
+		"@ctx-core/array": "^2.0.12",
+		"@ctx-core/dom__riot": "^2.0.13",
+		"@ctx-core/html": "^2.0.13",
+		"@ctx-core/layout": "^2.0.13",
+		"@ctx-core/logger": "^2.1.1",
+		"@ctx-core/object": "^2.0.7",
+		"@ctx-core/promise": "^2.0.14",
 		"@ctx-core/quovo": "^0.0.1",
-		"@ctx-core/riot": "^2.0.0",
-		"@ctx-core/route": "^2.0.0",
-		"@ctx-core/rpc": "^2.0.0",
-		"@ctx-core/string": "^2.0.0",
-		"esm": "^3.0.72",
+		"@ctx-core/riot": "^2.0.13",
+		"@ctx-core/route": "^2.0.14",
+		"@ctx-core/rpc": "^2.0.14",
+		"@ctx-core/string": "^2.0.13",
+		"esm": "^3.0.76",
 		"fs-promise": "^2.0.3"
 	},
 	"devDependencies": {
-		"@ctx-core/test": "^2.0.0"
+		"@ctx-core/test": "^2.0.13"
 	}
 }
