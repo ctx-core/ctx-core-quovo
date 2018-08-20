@@ -249,7 +249,7 @@ async function assign__account__cli__ctx__cli(opts) {
 	}
 	refresh__quovo__account()
 	if (delete__options) {
-		if (await prompt__confirm$delete())
+		if (await prompt__confirm__delete())
 			await delete__account__quovo({})
 	}
 	return ctx__cli
@@ -283,7 +283,7 @@ async function assign__account__cli__ctx__cli(opts) {
 						_row__quovo__account(
 							quovo__account))))
 	}
-	function prompt__confirm$delete() {
+	function prompt__confirm__delete() {
 		const quovo__account = ctx__cli.quovo__account
 		if (!quovo__account) {
 			cli.log(`account ${ctx__cli.account_id__quovo} does not exist`)
