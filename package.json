@@ -20,8 +20,8 @@
 		"@ctx-core/promise": "^2.0.17",
 		"@ctx-core/riot": "^2.0.18",
 		"@ctx-core/svelte": "^2.0.18",
-		"esm": "^3.0.79",
-		"inquirer": "^6.1.0",
+		"esm": "^3.0.80",
+		"inquirer": "^6.2.0",
 		"inquirer-autocomplete-prompt": "^1.0.1",
 		"table": "^4.0.3",
 		"vorpal": "^1.12.0"
