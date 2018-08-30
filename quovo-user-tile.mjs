@@ -10,9 +10,9 @@ export function init(tag) {
 	const { store } = ctx
 	tag.on('mount', onmount)
 	tag.on('unmount', onunmount)
-	function onmount() {
+	async function onmount() {
 		log(`${logPrefix}|onmount`)
-		__store__route(store)
+		await __store__route(store)
 		store.on('state', __state__route)
 		agent__user__quovo(ctx)
 			.on('change', __change__agent__user__quovo)
