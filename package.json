@@ -19,7 +19,7 @@
 		"@ctx-core/object": "^2.0.13",
 		"@ctx-core/promise": "^2.0.20",
 		"@ctx-core/riot": "^2.0.25",
-		"@ctx-core/svelte": "^2.0.26",
+		"@ctx-core/svelte": "^2.0.27",
 		"esm": "^3.0.82",
 		"inquirer": "^6.2.0",
 		"inquirer-autocomplete-prompt": "^1.0.1",
