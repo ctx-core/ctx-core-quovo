@@ -12,13 +12,13 @@
 		"quovo"
 	],
 	"dependencies": {
-		"@ctx-core/agent": "^2.0.29",
+		"@ctx-core/agent": "^2.0.30",
 		"@ctx-core/currency": "^2.1.9",
-		"@ctx-core/env": "^2.0.22",
+		"@ctx-core/env": "^2.0.23",
 		"@ctx-core/logger": "^2.1.7",
 		"@ctx-core/object": "^2.0.13",
-		"@ctx-core/promise": "^2.0.20",
-		"@ctx-core/riot": "^2.0.25",
+		"@ctx-core/promise": "^2.0.21",
+		"@ctx-core/riot": "^2.0.26",
 		"@ctx-core/svelte": "^2.0.28",
 		"esm": "^3.0.82",
 		"inquirer": "^6.2.0",
@@ -27,6 +27,6 @@
 		"vorpal": "^1.12.0"
 	},
 	"devDependencies": {
-		"@ctx-core/test": "^2.0.19"
+		"@ctx-core/test": "^2.0.20"
 	}
 }
