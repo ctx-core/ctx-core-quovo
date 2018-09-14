@@ -12,13 +12,13 @@
 		"quovo"
 	],
 	"dependencies": {
-		"@ctx-core/agent": "^3.0.1",
+		"@ctx-core/agent": "^3.0.3",
 		"@ctx-core/currency": "^2.1.9",
-		"@ctx-core/env": "^3.1.0",
+		"@ctx-core/env": "^3.1.2",
 		"@ctx-core/logger": "^2.1.7",
 		"@ctx-core/object": "^2.0.13",
 		"@ctx-core/promise": "^2.0.21",
-		"@ctx-core/riot": "^2.0.28",
+		"@ctx-core/riot": "^2.0.30",
 		"@ctx-core/svelte": "^2.0.32",
 		"esm": "^3.0.82",
 		"inquirer": "^6.2.0",
