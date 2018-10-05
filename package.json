@@ -12,14 +12,14 @@
 		"quovo"
 	],
 	"dependencies": {
-		"@ctx-core/agent": "^3.1.0",
+		"@ctx-core/agent": "^3.1.1",
 		"@ctx-core/currency": "^2.1.12",
 		"@ctx-core/env": "^3.1.6",
 		"@ctx-core/logger": "^2.2.0",
 		"@ctx-core/object": "^2.0.15",
 		"@ctx-core/promise": "^2.0.24",
 		"@ctx-core/riot": "^2.1.0",
-		"@ctx-core/svelte": "^2.0.43",
+		"@ctx-core/svelte": "^2.0.44",
 		"esm": "^3.0.84",
 		"inquirer": "^6.2.0",
 		"inquirer-autocomplete-prompt": "^1.0.1",
