@@ -12,21 +12,22 @@
 		"quovo"
 	],
 	"dependencies": {
-		"@ctx-core/agent": "^3.1.3",
-		"@ctx-core/currency": "^2.1.12",
-		"@ctx-core/env": "^3.1.7",
-		"@ctx-core/logger": "^2.2.0",
-		"@ctx-core/object": "^2.0.15",
-		"@ctx-core/promise": "^2.0.24",
-		"@ctx-core/riot": "^2.1.1",
-		"@ctx-core/svelte": "^2.0.45",
-		"esm": "^3.0.84",
-		"inquirer": "^6.2.0",
+		"@ctx-core/agent": "^5.0.0",
+		"@ctx-core/currency": "^3.1.6",
+		"@ctx-core/env": "^6.0.7",
+		"@ctx-core/logger": "^3.0.9",
+		"@ctx-core/monorepo": "^4.0.22",
+		"@ctx-core/object": "^3.2.0",
+		"@ctx-core/promise": "^3.0.9",
+		"@ctx-core/riot": "^4.0.0",
+		"@ctx-core/svelte": "^4.0.12",
+		"esm": "^3.2.22",
+		"inquirer": "^6.2.2",
 		"inquirer-autocomplete-prompt": "^1.0.1",
-		"table": "^5.1.0",
+		"table": "^5.2.3",
 		"vorpal": "^1.12.0"
 	},
 	"devDependencies": {
-		"@ctx-core/test": "^2.0.23"
+		"@ctx-core/test": "^3.0.9"
 	}
 }
